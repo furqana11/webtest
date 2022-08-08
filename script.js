@@ -6,7 +6,7 @@ const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
 
-const ultah = '11 Apr 2022'
+const ultah = '11 Apr 2023'
 
 function countdown(){
     const ultahDate = new Date(ultah);
